@@ -1,4 +1,4 @@
-### Hi there 👋
+### 서승주의 깃허브 👋
 
 <!--
 **juinggggS2/juinggggS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
