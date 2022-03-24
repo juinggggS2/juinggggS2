@@ -2,7 +2,6 @@
 
 ![juinggggS2's github stats](https://github-readme-stats.vercel.app/api?username=juinggggS2&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=juinggggS2)
 
 
 
