@@ -1,8 +1,10 @@
 ### 서승주의 깃허브 👋
 
 ![juinggggS2's github stats](https://github-readme-stats.vercel.app/api?username=juinggggS2&show_icons=true)
+
 [![juinggggS2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juinggggS2
 &show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/juinggggS2)
+
 
 
 <!--
